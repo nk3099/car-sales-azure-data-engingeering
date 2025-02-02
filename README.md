@@ -15,13 +15,11 @@
 ![Architecture_Design]()
 
 # <a name="Dataset"></a>Dataset
-For this project, we are going to use the kaggle dataset : [Car Sales - Sample Dataset](https://tableauserverguru.wordpress.com/sample-data-sets/). 
+For this project, we are going to use the following dataset : [Car Sales - Sample Dataset](https://tableauserverguru.wordpress.com/sample-data-sets/) 
 
-We are considering following four tables within the [data](https://github.com/nk3099/paris-olympic-azure-data-engingeering/tree/main/data) folder:
-- [athletes.csv](https://github.com/nk3099/paris-olympic-azure-data-engingeering/blob/main/data/athletes.csv)
-- [coaches.csv](https://github.com/nk3099/paris-olympic-azure-data-engingeering/blob/main/data/coaches.csv)
-- [medals.csv](https://github.com/nk3099/paris-olympic-azure-data-engingeering/blob/main/data/medals.csv)
-- [teams.csv](https://github.com/nk3099/paris-olympic-azure-data-engingeering/blob/main/data/teams.csv)
+We are considering following CSV data within the [raw-data](https://github.com/nk3099/car-sales-azure-data-engingeering/tree/main/raw-data) folder:
+- [IncrementalSales.csv](https://github.com/nk3099/car-sales-azure-data-engingeering/blob/main/raw-data/IncrementalSales.csv)
+- [SalesData.csv](https://github.com/nk3099/car-sales-azure-data-engingeering/blob/main/raw-data/SalesData.csv)
 
 # <a name="Tech-Stack"></a>Tech Stack
 - PySpark
