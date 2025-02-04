@@ -27,3 +27,6 @@ We are considering following CSV data within the [raw-data](https://github.com/n
 - Azure
 - Databricks
 
+# <a name="pipeline-flow"></a> Pipeline Flow
+
+![ADF_pipeline1_success](https://github.com/user-attachments/assets/36b3a47f-b52d-45f5-a965-93f7c31fc221)
