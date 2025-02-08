@@ -12,7 +12,8 @@
 
 
 # <a name="overview-of-the-design"></a> Overview of the Design
-![Architecture_Design]()
+![image](https://github.com/user-attachments/assets/673a9717-51d7-4f72-bab1-ef489903f796)
+
 
 # <a name="Dataset"></a>Dataset
 For this project, we are going to use the following dataset : [Car Sales - Sample Dataset](https://tableauserverguru.wordpress.com/sample-data-sets/) 
@@ -30,3 +31,8 @@ We are considering following CSV data within the [raw-data](https://github.com/n
 # <a name="pipeline-flow"></a> Pipeline Flow
 
 ![ADF_pipeline1_success](https://github.com/user-attachments/assets/36b3a47f-b52d-45f5-a965-93f7c31fc221)
+
+# <a name="data-model"></a> Data Model
+![image](https://github.com/user-attachments/assets/516dd6c0-721b-45d6-8e32-316577ba9d94)
+
+
