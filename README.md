@@ -37,7 +37,7 @@ We are considering following CSV data within the [raw-data](https://github.com/n
 
 
 # <a name="workflow-demo"></a> Workflow Demo
-[![Workflow Demo](https://img.youtube.com/vi/nwMOhdDVOS8/0.jpg)](https://www.youtube.com/watch?v=nwMOhdDVOS8)
+[![Workflow Demo](https://img.youtube.com/vi/nwMOhdDVOS8/1.jpg)](https://www.youtube.com/watch?v=nwMOhdDVOS8)
 
 
 
