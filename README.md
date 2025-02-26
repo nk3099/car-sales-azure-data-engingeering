@@ -33,6 +33,7 @@ We are considering following CSV data within the [raw-data](https://github.com/n
 ![ADF_pipeline1_success](https://github.com/user-attachments/assets/36b3a47f-b52d-45f5-a965-93f7c31fc221)
 
 # <a name="data-model"></a> Data Model
-![image](https://github.com/user-attachments/assets/516dd6c0-721b-45d6-8e32-316577ba9d94)
+![image](https://github.com/user-attachments/assets/17d34d6b-d8f4-472b-8a37-d34cdf21a6c4)
+
 
 
