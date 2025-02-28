@@ -40,6 +40,32 @@ We are considering following CSV data within the [raw-data](https://github.com/n
 [![Workflow Demo](https://img.youtube.com/vi/nwMOhdDVOS8/1.jpg)](https://www.youtube.com/watch?v=nwMOhdDVOS8)
 
 
+![image](https://github.com/user-attachments/assets/666dbdd5-9026-4790-a057-7c6b42e74e85)
+![image](https://github.com/user-attachments/assets/03b4298b-083e-4d0d-a8ed-4426b1039af8)
+![image](https://github.com/user-attachments/assets/34d8f4d0-e040-49dd-9735-858b6229add9)
+
+![image](https://github.com/user-attachments/assets/131b0e79-98cd-4827-bfd0-062ac325e9c9)
+
+![image](https://github.com/user-attachments/assets/4a16842d-b881-40f3-8652-fb3d9bf25cbe)
+
+![image](https://github.com/user-attachments/assets/d5e394fe-4a1e-47fb-b921-6ef6820db69c)
+
+
+![image](https://github.com/user-attachments/assets/b79eb102-9531-4108-a7a0-320082d3a3b4)
+![image](https://github.com/user-attachments/assets/6ddc9934-1b29-4f8a-bd62-63e411350a66)
+![image](https://github.com/user-attachments/assets/84e5fd97-33ad-4d64-b11a-85c40f91641b)
+
+![image](https://github.com/user-attachments/assets/5543a0a2-0aba-451e-8b02-4c69b6aefe40)
+
+![image](https://github.com/user-attachments/assets/55e80fab-5dd9-4cd5-a43b-1ebbceeaab8e)
+
+
+
+
+
+
+
+
 
 
 
